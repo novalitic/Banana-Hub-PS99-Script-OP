@@ -8,6 +8,6 @@ Create issues [here](https://github.com/novalitic/Banana-Hub-PS99-Script-OP/issu
 ## This will always stay free. ❤️
 
 To execute, run this in you're executor while being in PS99:
-```
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/novalitic/Banana-Hub-PS99-Script-OP/main/BananaHub.lua", true))()
 ```
